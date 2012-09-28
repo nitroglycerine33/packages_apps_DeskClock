@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label" msgid="6674495003718166674">"Relógio"</string>
+    <string name="alarm_list_title" msgid="7589940465292950600">"Alarmes"</string>
+    <string name="add_alarm" msgid="5976616107390962899">"Adicionar alarme"</string>
+    <string name="menu_desk_clock" msgid="3241995064554071588">"Relógio de mesa"</string>
+    <string name="menu_edit_alarm" msgid="7204602994918829751">"Editar alarme"</string>
+    <string name="delete_alarm" msgid="3457780990646206817">"Excluir alarme"</string>
+    <string name="enable_alarm" msgid="1834599140632142536">"Ativar alarme"</string>
+    <string name="disable_alarm" msgid="5889378670229554109">"Desativar alarme"</string>
+    <string name="delete_alarm_confirm" msgid="6578572637340860840">"Excluir este alarme?"</string>
+    <string name="show_clock" msgid="8358759982675616915">"Mostrar relógio"</string>
+    <string name="hide_clock" msgid="3217727306480505694">"Ocultar relógio"</string>
+    <string name="label" msgid="162189613902857319">"Marcador"</string>
+    <string name="default_label" msgid="5590025289805630372">"Alarme"</string>
+    <string name="set_alarm" msgid="9148359866152726808">"Definir alarme"</string>
+    <string name="alarm_vibrate" msgid="3476686921490362230">"Vibrar"</string>
+    <string name="alarm_repeat" msgid="7242985466344233206">"Repetir"</string>
+    <string name="alert" msgid="6539852766423700221">"Toque"</string>
+    <string name="time" msgid="8067216534232296518">"Horário"</string>
+    <string name="alarm_alert_dismiss_text" msgid="4942914605480888820">"Encerrar"</string>
+    <string name="alarm_alert_alert_silenced" msgid="2704775170733835993">"Alarme silenciado após <xliff:g id="MINUTES">%d</xliff:g> minutos."</string>
+    <string name="alarm_alert_snooze_text" msgid="1774416052207651584">"Colocar em modo soneca"</string>
+    <string name="alarm_alert_snooze_set" msgid="656470966696912087">"Soneca de <xliff:g id="MINUTES">%d</xliff:g> minutos."</string>
+  <string-array name="alarm_set">
+    <item msgid="6450913786084215050">"Alarme definido para menos de um minuto a partir de agora."</item>
+    <item msgid="6002066367368421848">"Alarme definido para <xliff:g id="DAYS">%1$s</xliff:g> a partir de agora."</item>
+    <item msgid="8824719306247973774">"Alarme definido para <xliff:g id="HOURS">%2$s</xliff:g> a partir de agora."</item>
+    <item msgid="8182406852935468862">"Alarme definido para <xliff:g id="DAYS">%1$s</xliff:g> e <xliff:g id="HOURS">%2$s</xliff:g> a partir de agora."</item>
+    <item msgid="2532279224777213194">"Alarme definido para <xliff:g id="MINUTES">%3$s</xliff:g> a partir de agora."</item>
+    <item msgid="5936557894247187717">"Alarme definido para <xliff:g id="DAYS">%1$s</xliff:g> e <xliff:g id="MINUTES">%3$s</xliff:g> a partir de agora."</item>
+    <item msgid="9115697840826129603">"Alarme definido para <xliff:g id="HOURS">%2$s</xliff:g> e <xliff:g id="MINUTES">%3$s</xliff:g> a partir de agora."</item>
+    <item msgid="2332583385137381060">"Alarme definido para <xliff:g id="DAYS">%1$s</xliff:g>, <xliff:g id="HOURS">%2$s</xliff:g> e <xliff:g id="MINUTES">%3$s</xliff:g> a partir de agora."</item>
+  </string-array>
+    <string name="day" msgid="7984755014526510295">"1 dia"</string>
+    <string name="days" msgid="2070509222727852210">"<xliff:g id="DAYS">%s</xliff:g> dias"</string>
+    <string name="hour" msgid="2546819039651509323">"1 hora"</string>
+    <string name="hours" msgid="2071487018566991613">"<xliff:g id="HOURS">%s</xliff:g> horas"</string>
+    <string name="minute" msgid="2486157997434653710">"1 minuto"</string>
+    <string name="minutes" msgid="6115838729146292526">"<xliff:g id="MINUTES">%s</xliff:g> minutos"</string>
+    <string name="every_day" msgid="4100909974923444602">"Todos os dias"</string>
+    <string name="never" msgid="54104287800571769">"Nunca"</string>
+    <string name="day_concat" msgid="971998564991636532">", "</string>
+    <string name="clock_instructions" msgid="2656876819515011590">"Escolha um relógio"</string>
+    <string name="analog_gadget" msgid="1670505720837152766">"Relógio analógico"</string>
+    <string name="settings" msgid="5849739030579520686">"Configurações"</string>
+    <string name="alarm_in_silent_mode_title" msgid="3892612644543516705">"Modo silencioso"</string>
+    <string name="alarm_in_silent_mode_summary" msgid="123772279768441207">"Tocar o alarme mesmo quando o dispositivo estiver no modo silencioso"</string>
+    <string name="snooze_duration_title" msgid="1471249885139952670">"Modo soneca"</string>
+  <string-array name="snooze_duration_entries">
+    <item msgid="8337408933053603125">"5 minutos"</item>
+    <item msgid="5294206441496024610">"10 minutos"</item>
+    <item msgid="2165904039211935470">"15 minutos"</item>
+    <item msgid="7248236967714374250">"20 minutos"</item>
+    <item msgid="738394723625179423">"25 minutos"</item>
+    <item msgid="1180222611308391616">"30 minutos"</item>
+  </string-array>
+  <string-array name="snooze_duration_values">
+    <item msgid="3655014754453084122">"5"</item>
+    <item msgid="8939029597449573449">"10"</item>
+    <item msgid="3922647341176353315">"15"</item>
+    <item msgid="5821804105985044459">"20"</item>
+    <item msgid="6048861883552402852">"25"</item>
+    <item msgid="2740866721232379791">"30"</item>
+  </string-array>
+    <string name="auto_silence_title" msgid="6940612987809171112">"Silenciar automaticamente"</string>
+    <string name="auto_silence_summary" msgid="5757272454196171758">"Os alarmes serão silenciados após <xliff:g id="MINUTES">%d</xliff:g> minutos"</string>
+    <string name="auto_silence_never" msgid="4302257878142130807">"Desativado"</string>
+  <string-array name="auto_silence_entries">
+    <item msgid="7718972982871612080">"Desativado"</item>
+    <item msgid="5431906692406316549">"5 minutos"</item>
+    <item msgid="7742728812068919959">"10 minutos"</item>
+    <item msgid="2855948657259647629">"15 minutos"</item>
+    <item msgid="6330196381284475079">"20 minutos"</item>
+    <item msgid="7809240121716151904">"25 minutos"</item>
+    <item msgid="2807487305575255986">"30 minutos"</item>
+  </string-array>
+    <string name="done" msgid="6509722361933858451">"Concluído"</string>
+    <string name="revert" msgid="9100911171235162926">"Reverter"</string>
+    <string name="delete" msgid="5732434972457000541">"Excluir"</string>
+    <string name="alarm_volume_title" msgid="8506245173912428522">"Volume do alarme"</string>
+    <string name="alarm_volume_summary" msgid="8957440373896242438">"Definir o volume dos alarmes"</string>
+    <string name="silent_alarm_summary" msgid="8605302849408279221">"Silencioso"</string>
+    <string name="alarm_notify_text" msgid="4891014685945904766">"Soneca ou cancelar alarme"</string>
+    <string name="alarm_notify_snooze_label" msgid="5404083762646377829">"<xliff:g id="LABEL">%s</xliff:g> (em modo soneca)"</string>
+    <string name="alarm_notify_snooze_text" msgid="4819324081410990368">"Alarme definido para as <xliff:g id="TIME">%s</xliff:g>. Toque para cancelar."</string>
+    <string name="volume_button_setting_title" msgid="6937131248843413357">"Botões de volume"</string>
+    <string name="volume_button_dialog_title" msgid="8768042543750036853">"Efeito do botão"</string>
+    <string name="volume_button_setting_summary" msgid="4776447991226047070">"Define a ação desses botões quando pressionados durante um alarme"</string>
+  <string-array name="volume_button_setting_entries">
+    <item msgid="4520420953175098625">"Nenhum"</item>
+    <item msgid="7111908302622811168">"Colocar em modo soneca"</item>
+    <item msgid="8573552194573068996">"Descartar"</item>
+  </string-array>
+  <string-array name="volume_button_setting_values">
+    <item msgid="4851033050639608752">"0"</item>
+    <item msgid="3204893476515513084">"1"</item>
+    <item msgid="7687709558968154577">"2"</item>
+  </string-array>
+    <string name="default_ringtone_setting_title" msgid="4549726190682964245">"Definir toque padrão"</string>
+    <string name="alarm_button_description" msgid="740283647046258651">"Alarmes"</string>
+    <string name="gallery_button_description" msgid="1151743663255257668">"Galeria"</string>
+    <string name="music_button_description" msgid="1626593420810117999">"Música"</string>
+    <string name="nightmode_button_description" msgid="990894208217576381">"Escurecer"</string>
+    <string name="home_button_description" msgid="3383859096809056157">"Launcher"</string>
+    <string name="desk_clock_button_description" msgid="4207371097361657274">"Exibição do relógio"</string>
+    <string name="battery_charging_level" msgid="5251483622085889693">"<xliff:g id="NUMBER">%d</xliff:g><xliff:g id="PERCENT">%%</xliff:g>"</string>
+    <string name="weather_fetch_failure" msgid="3425804832021006835">"As informações meteorológicas não estão disponíveis no momento."</string>
+    <string name="menu_item_dock_settings" msgid="3524235151132971114">"Configurações de dock"</string>
+    <string name="alarm_klaxon_service_desc" msgid="2147506334302260256">"Serviço de reprodução de som para alarmes definidos no Relógio."</string>
+    <string name="loading_ringtone" msgid="6523322777415268044">"Carregando toque…"</string>
+    <string name="control_set_alarm" msgid="2194676418924016327">"Definir alarme"</string>
+    <string name="control_set_alarm_with_existing" msgid="1128169496817859490">"Alarme definido: <xliff:g id="TIME">%s</xliff:g>"</string>
+    <string name="flip_action_title">Ação de virar</string>
+    <string name="flip_action_dialog_title">Ação de virar</string>
+    <string name="flip_action_summary">Virando o telefone para baixo irá        <xliff:g id="action" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">%s</xliff:g></string>
+    <string-array name="flip_action_entries">
+        <item>Fazer nada</item>
+        <item>Colocar alarme em soneca</item>
+        <item>Encerrar o alarme</item>
+    </string-array>
+    <string name="alarm_incvol">Volume Crescente</string>
+    <string name="alarm_profile_summary_change_to">Quando o alarme toca, o perfil será trocado para
+        <xliff:g id="profile" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">%s</xliff:g></string>
+    <string name="alarm_profile_summary_no_change">Não troca o perfil quando o alarme toca</string>
+    <string name="alarm_profile_no_change_profile">Não trocar o perfil</string>
+    <string name="alarm_profile">Perfil</string>
+    <string name="msg_timer_service_is_not_ready">\nO serviço do temporizador não está pronto. Nenhuma operação é permitida.\n</string>
+    <string name="msg_timer_creation_fails">\nFalha ao criar temporizador. Nenhuma operação é permitida.\n</string>
+    <string name="msg_timer_ui_thread_fails">\nFalha ao desenhar na thread de IU. Nenhuma operação é permitida.\n</string>
+    <string name="msg_pref_update_fails">\nFalha ao atualizar a preferência. Valor não foi alterado.\n</string>
+    <string name="msg_operation_fails">\nFalha na operação.\n</string>
+    <string name="stopwatch_title">Cronômetro</string>
+    <string name="stopwatch_actions_stop">Pausar</string>
+    <string name="stopwatch_actions_stop_cd">Pausa o cronômetro atual</string>
+    <string name="stopwatch_actions_start">Iniciar</string>
+    <string name="stopwatch_actions_start_cd">Inicia o cronômetro atual</string>
+    <string name="stopwatch_actions_resume">Reiniciar</string>
+    <string name="stopwatch_actions_resume_cd">Reinicia o cronômetro atual</string>
+    <string name="stopwatch_actions_reset">Zerar</string>
+    <string name="stopwatch_actions_reset_cd">Zera o cronômetro atual</string>
+    <string name="stopwatch_actions_lap">Volta</string>
+    <string name="stopwatch_actions_lap_cd">Registra o tempo de volta</string>
+    <string name="stopwatch_actions_sector">Setor</string>
+    <string name="stopwatch_actions_sector_cd">Registra o tempo parcial de um setor da volta atual</string>
+    <string name="stopwatch_info_panel_last_lap_title">Última volta</string>
+    <string name="stopwatch_info_panel_best_lap_title">Melhor volta</string>
+    <string name="stopwatch_info_panel_laps_title">Voltas</string>
+    <string name="stopwatch_info_panel_empty_data">Nenhum dado coletado</string>
+    <string name="stopwatch_info_panel_empty_lap">Volta</string>
+    <string name="stopwatch_info_panel_lap_label">Volta <xliff:g id="lap" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">%1$s</xliff:g></string>
+    <string name="stopwatch_info_panel_lap_sector">Setor <xliff:g id="sector" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">%1$s</xliff:g></string>
+    <string name="stopwatch_menu_hide_last_lap_panel">Ocultar \'Última volta\'</string>
+    <string name="stopwatch_menu_hide_best_lap_panel">Ocultar \'Melhor volta\'</string>
+    <string name="stopwatch_menu_hide_laps_panel">Ocultar \'Voltas\'</string>
+    <string name="stopwatch_menu_settings">Preferências</string>
+    <string name="stopwatch_preferences_lap_sectors">Volta/setor</string>
+    <string name="stopwatch_preferences_lap_sectors_summary">Configurar preferências de voltas e setores</string>
+    <string name="stopwatch_preferences_sectors">Setor</string>
+    <string name="stopwatch_preferences_sectors_summary">{0,opção,0#Setores de volta não estão ativados.|1#Setores de volta configurados com 1 setor.|1&lt;Setores de volta configurados com {0} setores.}</string>
+    <string name="stopwatch_preferences_best_lap_behaviour">Comportamento da melhor volta</string>
+    <string name="stopwatch_preferences_about">Sobre</string>
+    <string name="stopwatch_preferences_about_summary">Cronômetro: Copyright \u00A9 2012 CyanogenMod</string>
+    <string name="stopwatch_best_lap_lower_pref">Tempos menores são melhores</string>
+    <string name="stopwatch_best_lap_lower_pref_summary">Melhor volta é a de menor tempo.</string>
+    <string name="stopwatch_best_lap_highest_pref">Tempos maiores são melhores</string>
+    <string name="stopwatch_best_lap_highest_pref_summary">Melhor volta é a de maior tempo.</string>
+    <string name="sectors_dialog_enabled_text">Setores de volta está ativado:</string>
+    <string name="countdown_title">Contagem regressiva</string>
+    <string name="countdown_actions_stop">Pausar</string>
+    <string name="countdown_actions_stop_cd">Pausa a contagem regressiva atual</string>
+    <string name="countdown_actions_start">Iniciar</string>
+    <string name="countdown_actions_start_cd">Inicia a contagem regressiva atual</string>
+    <string name="countdown_actions_resume">Reiniciar</string>
+    <string name="countdown_actions_resume_cd">Renicia a contagem regressiva atual</string>
+    <string name="countdown_actions_reset">Zerar</string>
+    <string name="countdown_actions_reset_cd">Zera a contagem regressiva atual</string>
+    <string name="countdown_actions_cancel">Cancelar</string>
+    <string name="countdown_actions_cancel_cd">Cancela o modo de edição da contagem regressiva atual</string>
+    <string name="countdown_actions_set">Definir</string>
+    <string name="countdown_actions_set_cd">Define o tempo da contagem regressiva atual</string>
+    <string name="countdown_menu_open_timer_editor">Abrir editor do temporizador</string>
+    <string name="countdown_menu_close_timer_editor">Fechar editor do temporizador</string>
+    <string name="countdown_menu_settings">Preferências</string>
+    <string name="countdown_panel_title">Temporizadores de contagem regressiva salvos</string>
+    <string name="countdown_panel_add_text">Adicionar temporizador atual</string>
+    <string name="countdown_panel_add_text_cd">Adicionar o temporizador de contagem regressiva à lista de ítems salvos.</string>
+    <string name="countdown_panel_remove_cd">Remover o temporizador de contagem regressiva da lista de ítems salvos.</string>
+    <string name="countdown_dialog_add">Um novo temporizador foi criado.\n\nContinuar?\n</string>
+    <string name="countdown_dialog_delete">O temporizador \'<xliff:g id="timer" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">%1$s</xliff:g>\' irá ser excluído.\n\nVocê tem certeza?\n</string>
+    <string name="countdown_preferences_notifications">Notificações</string>
+    <string name="countdown_preferences_notifications_summary">Configurar preferências de notificação da contagem regressiva.</string>
+    <string name="countdown_preferences_about">Sobre</string>
+    <string name="countdown_preferences_about_summary">Contagem Regressiva: Copyright \u00A9 2012 CyanogenMod</string>
+    <string name="countdown_notification_oncountdown_category">Contagem Regressiva</string>
+    <string name="countdown_notification_oncountdown_notifications_title">Notificações</string>
+    <string name="countdown_notification_oncountdown_notifications_summary_on">Exibir notificações na barra de status.</string>
+    <string name="countdown_notification_oncountdown_notifications_summary_off">Não exibir notificações na barra de status.</string>
+    <string name="countdown_notification_onfinalcountdown_category">Contagem regressiva final</string>
+    <string name="countdown_notification_onfinalcountdown_notifications_title">Notificações</string>
+    <string name="countdown_notification_onfinalcountdown_notifications_summary_on">Exibir notificações na barra de status.</string>
+    <string name="countdown_notification_onfinalcountdown_notifications_summary_off">Não exibir notificações na barra de status.</string>
+    <string name="countdown_notification_onfinalcountdown_open_clock_screen_title">Abrir tela do relógio</string>
+    <string name="countdown_notification_onfinalcountdown_open_clock_screen_summary_on">Quando a contagem regressiva termina, a tela do relógio da contagem regressiva irá ser aberta (Esta opção é ignorada durante uma ligação).</string>
+    <string name="countdown_notification_onfinalcountdown_open_clock_screen_summary_off">Quando a contagem regressiva termina, não abrir a tela do relógio da contagem regressiva.</string>
+    <string name="countdown_notification_onfinalcountdown_ringtone_title">Som de Aviso</string>
+    <string name="countdown_notification_onfinalcountdown_ringtone_silent">Silencioso</string>
+    <string name="countdown_notification_onfinalcountdown_vibrate_title">Vibrar</string>
+    <string name="countdown_notification_onfinalcountdown_vibrate_always">Sempre</string>
+    <string name="countdown_notification_onfinalcountdown_vibrate_only_when_silent">Somente no modo silencioso</string>
+    <string name="countdown_notification_onfinalcountdown_vibrate_never">Nunca</string>
+    <string name="countdown_notification_onfinalcountdown_vibrate_on_call_title">Vibrar durante chamada</string>
+    <string name="countdown_notification_onfinalcountdown_vibrate_on_call_summary_on">Permitir vibrar quando estiver em uma chamada.</string>
+    <string name="countdown_notification_onfinalcountdown_vibrate_on_call_summary_off">Não vibrar quando estiver em uma chamada.</string>
+    <string name="service_countdown_notification_title">Contagem regressiva</string>
+    <string name="service_countdown_notification_msg_progress">Existe uma contagem regressiva em andamento.</string>
+    <string name="service_countdown_notification_msg_end">O temporizador chegou à contagem regressiva final.</string>
+    <string name="service_countdown_notification_summary">Tempo restante: <xliff:g id="time" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">%1$s</xliff:g></string>
+    <string name="cling_deskclock_desc">Deslize à esquerda para mostrar o cronômetro e contagens regressivas.</string>
+    <string name="cling_stopwatch_desc">Acesse o menu para configurar as preferências de voltas e setores.</string>
+    <string name="cling_countdown_desc">Pressione e segure sobre o relógio para editar o temporizador.</string>
+    <string name="overflow_button_cd">Mais opções</string>
+</resources>
